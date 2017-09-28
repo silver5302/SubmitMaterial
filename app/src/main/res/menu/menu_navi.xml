@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/header_menu_add"
+        android:title="추가"
+        android:icon="@android:drawable/ic_menu_add"/>
+    <item
+        android:id="@+id/header_menu_gallery"
+        android:title="갤러리"
+        android:icon="@android:drawable/ic_menu_gallery"/>
+
+
+</menu>
